@@ -1,0 +1,125 @@
+{
+    "m_SelectedDeviceId": "09051FDD4004MT",
+    "m_SelectedPackage": {
+        "deviceId": "09051FDD4004MT",
+        "name": "com.DefaultCompany.ARGAN",
+        "processId": 2504,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "09051FDD4004MT",
+            "name": "com.DefaultCompany.ARGAN",
+            "processId": 6563,
+            "exited": true
+        },
+        {
+            "deviceId": "09051FDD4004MT",
+            "name": "com.DefaultCompany.ARGAN",
+            "processId": 9980,
+            "exited": true
+        },
+        {
+            "deviceId": "09051FDD4004MT",
+            "name": "com.DefaultCompany.ARGAN",
+            "processId": 11663,
+            "exited": true
+        },
+        {
+            "deviceId": "09051FDD4004MT",
+            "name": "com.DefaultCompany.ARGAN",
+            "processId": 20758,
+            "exited": true
+        },
+        {
+            "deviceId": "09051FDD4004MT",
+            "name": "com.google.android.apps.nexuslauncher",
+            "processId": 24405,
+            "exited": false
+        },
+        {
+            "deviceId": "09051FDD4004MT",
+            "name": "com.DefaultCompany.ARGAN",
+            "processId": 22396,
+            "exited": true
+        },
+        {
+            "deviceId": "09051FDD4004MT",
+            "name": "com.DefaultCompany.ARGAN",
+            "processId": 24534,
+            "exited": true
+        },
+        {
+            "deviceId": "09051FDD4004MT",
+            "name": "com.DefaultCompany.ARGAN",
+            "processId": 27297,
+            "exited": false
+        },
+        {
+            "deviceId": "09051FDD4004MT",
+            "name": "com.DefaultCompany.ARGAN",
+            "processId": 29975,
+            "exited": false
+        },
+        {
+            "deviceId": "09051FDD4004MT",
+            "name": "com.DefaultCompany.ARGAN",
+            "processId": 2504,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 255.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
