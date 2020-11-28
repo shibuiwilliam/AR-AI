@@ -1,6 +1,3 @@
-<linker>
-    <assembly fullname="UnityEngine.PhysicsModule">
-        <type fullname="UnityEngine.BoxCollider" preserve="all"/>
-        <type fullname="UnityEngine.MeshCollider" preserve="all"/>
-    </assembly>
-</linker>
+version https://git-lfs.github.com/spec/v1
+oid sha256:94b13bcb3b78d386bd1784f8d0aa1f09ae7f3ba434869c645ddcd2b6e7d32a75
+size 219
